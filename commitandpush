@@ -3,7 +3,7 @@ git config --global user.email "claudio.grasso@yahoo.com"
 git config --global user.name "Clod"
 git commit -m "Yet another commit"
 
-echo "User is Clod""
+echo "User is Clod"
 echo "Password is shift+ctrl+Q"
 
 git push origin
