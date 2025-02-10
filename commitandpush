@@ -8,3 +8,5 @@ echo "Password is shift+ctrl+Q"
 
 git push origin
 
+git status
+
